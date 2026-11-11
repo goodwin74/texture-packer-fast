@@ -13,4 +13,5 @@ Test Platform: Windows 11 (Stable operation is also possible on later versions.)
 
 
 ☕ Сказать спасибо > <a href="https://yoomoney.ru/to/41001412274855">Донат</a>
+
 ![donate](https://user-images.githubusercontent.com/15101984/143142406-baacd3e3-e4f9-4a2a-b6bc-466b49181307.gif)
